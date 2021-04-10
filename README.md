@@ -1,6 +1,6 @@
 # Markov State Modelling with Optimal Transport
 
-The project cosists of two parts. One regarding the Dixit and Dill approach to building Markov models with optimal transport [1]. The other part is about Optimal Transport Transfer Operators (OTTO), based on the work of Koltai et al. [2]
+The project cosists of two parts. One regarding the Dixit and Dill approach to building Markov models with optimal transport [1], see Chapter 4. The other part, Chapter 5, concerns Optimal Transport Transfer Operators (OTTO) based on the work of Koltai et al. [2]
 
 ## Abstract
 
